@@ -1,0 +1,32 @@
+{
+    "id": "CC25C8CA",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1607962089579.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "expression": "prvdr_2018",
+        "caption": "prvdr_2018",
+        "totalObservations": 6087,
+        "displayedObservations": 6087,
+        "variables": 9,
+        "cacheKey": "97B84854",
+        "object": "prvdr_2018",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=prvdr_2018&cache_key=97B84854&max_cols=50",
+        "preview": 0
+    },
+    "folds": "",
+    "lastKnownWriteTime": 8315171486954386546,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1607962089579,
+    "read_only": false,
+    "read_only_alternatives": []
+}

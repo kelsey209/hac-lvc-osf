@@ -1,0 +1,32 @@
+{
+    "id": "DD3838CD",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1607962065369.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "expression": "prvdr_CCR",
+        "caption": "prvdr_CCR",
+        "totalObservations": 12528,
+        "displayedObservations": 12528,
+        "variables": 3,
+        "cacheKey": "BAF7A473",
+        "object": "prvdr_CCR",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=prvdr_CCR&cache_key=BAF7A473&max_cols=50",
+        "preview": 0
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1916504503528,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1607962065369,
+    "read_only": false,
+    "read_only_alternatives": []
+}

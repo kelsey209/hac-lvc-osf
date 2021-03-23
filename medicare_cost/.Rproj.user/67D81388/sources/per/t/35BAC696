@@ -1,0 +1,32 @@
+{
+    "id": "35BAC696",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1607962155586.0,
+    "source_on_save": false,
+    "relative_order": 5,
+    "properties": {
+        "expression": "prvdr_full",
+        "caption": "prvdr_full",
+        "totalObservations": 6264,
+        "displayedObservations": 6264,
+        "variables": 27,
+        "cacheKey": "4D8757F8",
+        "object": "prvdr_full",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=prvdr_full&cache_key=4D8757F8&max_cols=50",
+        "preview": 0
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1607962139,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1607962155586,
+    "read_only": false,
+    "read_only_alternatives": []
+}
